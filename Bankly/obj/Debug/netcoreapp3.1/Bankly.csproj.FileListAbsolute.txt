@@ -1,0 +1,13 @@
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\obj\Debug\netcoreapp3.1\Bankly.csprojAssemblyReference.cache
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\obj\Debug\netcoreapp3.1\Bankly.AssemblyInfoInputs.cache
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\obj\Debug\netcoreapp3.1\Bankly.AssemblyInfo.cs
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\obj\Debug\netcoreapp3.1\Bankly.csproj.CoreCompileInputs.cache
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\bin\Debug\netcoreapp3.1\Bankly.exe
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\bin\Debug\netcoreapp3.1\Bankly.deps.json
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\bin\Debug\netcoreapp3.1\Bankly.runtimeconfig.json
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\bin\Debug\netcoreapp3.1\Bankly.runtimeconfig.dev.json
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\bin\Debug\netcoreapp3.1\Bankly.dll
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\bin\Debug\netcoreapp3.1\Bankly.pdb
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\obj\Debug\netcoreapp3.1\Bankly.dll
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\obj\Debug\netcoreapp3.1\Bankly.pdb
+C:\Users\CI\Documents\Visual Studio 2019\Projects\Bankly\Bankly\obj\Debug\netcoreapp3.1\Bankly.genruntimeconfig.cache
