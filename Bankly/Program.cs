@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Bankly
@@ -8,20 +9,32 @@ namespace Bankly
         static void Main(string[] args)
         {
 
+
+            Dictionary<string, int> dictionary = new Dictionary<string, int>();
+
             var sentence = "Michael goes to the stream Michael work at Cyberspace Michael can write C#";
 
+            string[] arr = sentence.Split(' ');
 
-            var results = sentence.Split(' ').Where(x => x.Length > 5)
-                              .GroupBy(x => x)
-                              .Select(x => new { Count = x.Count(), Word = x.Key })
-                              .OrderByDescending(x => x.Count);
+            foreach (string word in arr)
+            {
+                if (word.Length >= 5) 
+                {
+                    if (dictionary.ContainsKey(word)) 
+                        dictionary[word] = dictionary[word] + 1; 
+                    else
+                        dictionary[word] = 1;
+                }
+            }
 
-            foreach (var item in results)
-       
-            Console.WriteLine(String.Format("{0} occured {1} times", item.Word, item.Count));
+            foreach (KeyValuePair<string, int> pair in dictionary)
+                Console.WriteLine(string.Format("Number: {0}, Occurred: {1}<br />", pair.Key, pair.Value));
 
             Console.ReadLine();
 
+
+
         }
     }
+
 }
